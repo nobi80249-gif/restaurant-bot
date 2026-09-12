@@ -1,5 +1,5 @@
 # تنظیمات ربات
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'  # توکن ربات تلگرام رو اینجا قرار بدید
+BOT_TOKEN = '8976513975:AAH6aCf9LK7lIdzYq1uUQkvP0EEREfbJm5Q'  # توکن ربات تلگرام رو اینجا قرار بدید
 
 # ساعت کاری رستوران
 WORKING_HOURS = {
